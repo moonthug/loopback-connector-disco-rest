@@ -51,7 +51,6 @@
       "timeout": 10000                            // ms
     },
 
-
     "operations": [
       {
         "template": {
