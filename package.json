@@ -1,16 +1,13 @@
 {
-  "name": "loopback-connector-disco-rest",
-  "version": "0.1.0",
-  "description": "Loopback Service Discovery REST Connector",
+  "name": "loopback-connector-rest",
+  "version": "3.1.0",
+  "description": "Loopback REST Connector",
   "engines": {
     "node": ">=4"
   },
   "keywords": [
     "StrongLoop",
     "LoopBack",
-    "ServiceDiscovery",
-    "Disco",
-    "Stu",
     "REST",
     "DataSource",
     "Connector"
@@ -23,7 +20,6 @@
   },
   "dependencies": {
     "debug": "^2.1.1",
-    "discovery-agent": "git+https://git@github.com/moonthug/discovery-agent.git",
     "jsonpath-plus": "^0.14.0",
     "lodash": "^4.6.1",
     "methods": "^1.1.1",
@@ -45,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moonthug/loopback-connector-disco-rest"
+    "url": "https://github.com/strongloop/loopback-connector-rest.git"
   },
   "license": "MIT"
 }
