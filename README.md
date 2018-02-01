@@ -1,3 +1,3 @@
 # loopback-connector-disco-rest
 
-(See branch /feature/discovery-agent)
+[See feature branch /feature/discovery-agent](https://github.com/moonthug/loopback-connector-disco-rest/tree/feature/discovery-agent)
