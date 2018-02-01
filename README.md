@@ -1,5 +1,8 @@
 # loopback-connector-disco-rest
 
+
+![alt text](./stu.png "Disco Agent")
+
 ## Overview
 
 Based on [loopback-connector-disco-rest](https://github.com/strongloop/loopback-connector-rest)
