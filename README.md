@@ -1,7 +1,7 @@
 # loopback-connector-disco-rest
 
 
-![Disco Agent](./stu_boopback.png "Disco Agent")
+![Disco Agent](./stu_loopback.png "Disco Agent")
 
 ## Overview
 
