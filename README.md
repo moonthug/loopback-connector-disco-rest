@@ -1,7 +1,7 @@
 # loopback-connector-disco-rest
 
 
-![alt text](./stu.png "Disco Agent")
+![Disco Agent](./stu_boopback.png "Disco Agent")
 
 ## Overview
 
