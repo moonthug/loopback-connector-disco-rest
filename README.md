@@ -1,4 +1,5 @@
 # loopback-connector-disco-rest
+## [Work in progress!!!]
 
 
 ![Disco Agent](./stu_loopback.png "Disco Agent")
