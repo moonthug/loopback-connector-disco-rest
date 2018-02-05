@@ -1,11 +1,12 @@
 # loopback-connector-disco-rest
+## [Work in progress!!!]
 
 
-![alt text](./stu.png "Disco Agent")
+![Disco Agent](./stu_loopback.png "Disco Agent")
 
 ## Overview
 
-Based on [loopback-connector-disco-rest](https://github.com/strongloop/loopback-connector-rest)
+Based on [loopback-connector-rest](https://github.com/strongloop/loopback-connector-rest) and uses [disco-agent](https://github.com/moonthug/discovery-agent)
 
 Go from 'hardcoded' to 'service-discovery loaded' in a few lines of config!
 
